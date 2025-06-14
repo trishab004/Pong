@@ -3,7 +3,6 @@
 A modern, advanced version of the classic Pong game built using HTML5 Canvas, JavaScript, and CSS. This project is designed to demonstrate advanced frontend development skills, game logic, and responsive design. Playable on desktop and mobile, with keyboard, mouse, and touch controls!
 
 
-
 ---
 
 ## 🚀 Features
